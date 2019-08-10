@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 92FD-5B19
+
+ Directory of C:\Users\JASSU2016\Desktop\myproject
+
+10/08/2019  10:11    <DIR>          .
+10/08/2019  10:11    <DIR>          ..
+09/08/2019  23:29               675 hello1.class
+09/08/2019  20:33               154 hello1.java
+10/08/2019  10:11                 0 nag1.txt
+               3 File(s)            829 bytes
+               2 Dir(s)  829,006,729,216 bytes free
